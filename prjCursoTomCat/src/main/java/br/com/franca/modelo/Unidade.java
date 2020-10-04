@@ -1,6 +1,7 @@
 package br.com.franca.modelo;
 
 public class Unidade {
+
 	private Long id;
 
 	private String nome;
